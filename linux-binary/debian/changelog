@@ -1,0 +1,5 @@
+bugreports-0100 (0.1.0-1) xenial; urgency=medium
+
+  * Initial release (Closes: #nnnn)
+
+ -- sparrdrem <samyoethe2@gmail.com>  Fri, 13 Jul 2018 13:53:39 -0500

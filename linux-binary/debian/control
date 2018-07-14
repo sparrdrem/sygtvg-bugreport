@@ -1,0 +1,17 @@
+Source: bugreports-0100
+Section: devel
+Priority: optional
+Maintainer: sparrdrem <samyoethe2@gmail.com>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: https://sparrosdeveloperteam-win.github.io/SYGTVG-REL/
+#Vcs-Git: git://anonscm.debian.org/collab-maint/bugreports-0100.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/bugreports-0100.git
+
+Package: bugreports-0100
+Architecture: all
+Depends: sygtvg-test-0100
+Description: Bug Reports for Sam&Yoe Group The Video Game
+ This program is used for sending bug reports to
+ gitreports.com. We highly recommend installing this package
+ as it gives you a direct link to the bug submission form.
