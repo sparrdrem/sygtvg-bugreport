@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=Sam&Yoe Group Bug Reports
+Comment=Submits a form to gitreports
+URL=https://gitreports.com/issue/SparrOSDeveloperTeam-Win/SYGTVG-REL
+Icon=/usr/share/bugreports-0100/binary.png
+Categories=Game
